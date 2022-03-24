@@ -1,5 +1,5 @@
-# Estrutura de Dados 2022.2
-### Disciplina oferecida pelo Laboratório Nacional de Computação Científica (LNCC)
+# Estrutura de Dados LNCC
+### Disciplina oferecida pelo Laboratório Nacional de Computação Científica (LNCC), cursada em 2022.2
 
 Contém exercícios da disciplina, escritos em linguagem C.
 
