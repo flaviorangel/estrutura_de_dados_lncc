@@ -6,7 +6,7 @@ int main(void){
 
     printf("--INICIO DOS TESTES--\n\n");
 
-    printf("1) Matriz identidade\n\n");
+    printf("1.1) Matriz identidade\n\n");
 
     printf("Caso identidade tamanho 2\n\n");
 
